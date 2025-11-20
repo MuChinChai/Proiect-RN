@@ -40,7 +40,7 @@ project-name/
 
 ### 2.1 Sursa datelor
 
-* **Origine:** [Descriere sursă date - ex: senzori robot, dataset public, simulare]
+* **Origine:** Camera foto [Descriere sursă date - ex: senzori robot, dataset public, simulare]
 * **Modul de achiziție:** ☐ Senzori reali / ☐ Simulare / ☐ Fișier extern / ☐ Generare programatică
 * **Perioada / condițiile colectării:** [Ex: Noiembrie 2024 - Ianuarie 2025, condiții experimentale specifice]
 
@@ -48,8 +48,8 @@ project-name/
 
 * **Număr total de observații:** [Ex: 15,000]
 * **Număr de caracteristici (features):** [Ex: 12]
-* **Tipuri de date:** ☐ Numerice / ☐ Categoriale / ☐ Temporale / ☐ Imagini
-* **Format fișiere:** ☐ CSV / ☐ TXT / ☐ JSON / ☐ PNG / ☐ Altele: [...]
+* **Tipuri de date:** ☐ Imagini / Text
+* **Format fișiere:** ☐ jpg / ☐ TXT / ☐ VI / ☐ PNG
 
 ### 2.3 Descrierea fiecărei caracteristici
 
