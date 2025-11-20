@@ -3,7 +3,7 @@
 **Disciplina:** Rețele Neuronale  
 **Instituție:** POLITEHNICA București – FIIR  
 **Student:** [Burada Rares Andrei]  
-**Data:** [secret]  
+**Data:** [20.11.2025]  
 
 ---
 
